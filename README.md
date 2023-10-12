@@ -12,8 +12,10 @@ Each folder in 'Code/' is associated with one site, containing at least an IPYNB
 
 ## Done sites:
 - https://suarajatimpost.com/
+- https://tribunnews.com/
 
 ## Planned sites
+- kompas.com/
 
 ## Contact
 You may wish to contact me through mouse3mic3@gmail.com.
